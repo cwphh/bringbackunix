@@ -2,9 +2,6 @@
 
 Set up a working, publically accessible full stack MEAN Application on a Digital Ocean Droplet with this tutorial.
 
-
-
-
 ###1. Set up and configure Digital Ocean Droplet
 
 IP Address of our droplet is: 46.101.49.106
@@ -20,6 +17,16 @@ at the end of this process we will be able to login via terminal using this comm
 ```ssh -p 1968 listingslab@46.101.49.106```
 
 ###2. Add Project to to Github and deploy it to the droplet
+
+https://developer.github.com/guides/delivering-deployments/
+
+SSH Deploy keys
+https://help.github.com/articles/generating-ssh-keys/
+on server
+
+```ssh-keygen -t rsa -b 4096 -C "listingslab@gmail.com"```
+
+```cat ~/.ssh/id_rsa.pub```
 
 ###3. Install Express with the Express application generator
 
