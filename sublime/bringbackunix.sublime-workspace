@@ -1,0 +1,229 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"margin",
+				"margin-top"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 187.0,
+		"selected_items":
+		[
+			[
+				"type",
+				"Set Syntax: TypeScript"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/listingslab/Desktop/NodeApps/express_angular/views/index.jade",
+		"/Users/listingslab/Desktop/NodeApps/bringbackunix/README.md",
+		"/Users/listingslab/Desktop/NodeApps/express_angular/views/error.jade",
+		"/Users/listingslab/Desktop/NodeApps/express_angular/npm-debug.log",
+		"/Users/listingslab/Desktop/NodeApps/express_angular/npm-debug.log.0f092a4708f593de9e51fa0306dd7cf3",
+		"/Users/listingslab/Desktop/NodeApps/express_angular/README.md",
+		"/Users/listingslab/Desktop/NodeApps/express_angular/package.json",
+		"/Users/listingslab/Desktop/NodeApps/express_angular/.gitignore",
+		"/Users/listingslab/Desktop/NodeApps/express_angular/app.js",
+		"/Users/listingslab/Desktop/NodeApps/express_angular/bin/www",
+		"/Users/listingslab/Desktop/NodeApps/express_framework/routes/users.js",
+		"/Users/listingslab/Desktop/NodeApps/express_framework/routes/index.js",
+		"/Users/listingslab/Desktop/NodeApps/express_framework/bin/www",
+		"/Users/listingslab/Desktop/NodeApps/express_framework/views/error.jade",
+		"/Users/listingslab/Desktop/NodeApps/express_framework/public/stylesheets/style.css",
+		"/Users/listingslab/Desktop/NodeApps/express_framework/express_framework.sublime-project",
+		"/Users/listingslab/Desktop/NodeApps/express_framework/express_framework.sublime-workspace",
+		"/Users/listingslab/Desktop/NodeApps/express_framework/views/layout.jade",
+		"/Users/listingslab/Desktop/NodeApps/express_framework/views/index.jade",
+		"/Users/listingslab/Desktop/NodeApps/express_framework/package.json",
+		"/Users/listingslab/Desktop/NodeApps/express_framework/app.js",
+		"/Users/listingslab/Desktop/NodeApps/ninja/routes/index.js",
+		"/Users/listingslab/Desktop/NodeApps/ninja/routes/users.js",
+		"/Users/listingslab/Desktop/NodeApps/yo-angular/Gruntfile.js",
+		"/Users/listingslab/Desktop/NodeApps/ng-1/static/first.html",
+		"/Users/listingslab/Desktop/NodeApps/spokenNumberify/Gruntfile.js",
+		"/Users/listingslab/Desktop/NodeApps/mean.js/config/env/default.js",
+		"/Users/listingslab/Desktop/NodeApps/mean.js/config/config.js",
+		"/Users/listingslab/Desktop/NodeApps/mean.js/config/assets/default.js",
+		"/Users/listingslab/Desktop/NodeApps/mean.js/server.js",
+		"/Users/listingslab/Desktop/NodeApps/mean.js/config/lib/app.js",
+		"/Users/listingslab/Desktop/NodeApps/mean.js/config/lib/express.js",
+		"/Users/listingslab/Desktop/NodeApps/spokenNumberify/public/index.html",
+		"/Users/listingslab/Desktop/NodeApps/spokenNumberify/src/validate.js",
+		"/Users/listingslab/Desktop/NodeApps/spokenNumberify/README.md",
+		"/Users/listingslab/Desktop/NodeApps/spokenNumberify/public/css/main.css",
+		"/Users/listingslab/Desktop/NodeApps/spokenNumberify/src/print.js",
+		"/Users/listingslab/Desktop/NodeApps/spokenNumberify/src/convertNumber.js",
+		"/Users/listingslab/Desktop/NodeApps/spokenNumberify/src/main.js",
+		"/Users/listingslab/Desktop/NodeApps/spokenNumberify/src/createWords.js",
+		"/Users/listingslab/Desktop/NodeApps/spokenNumberify/src/createHundreds.js",
+		"/Users/listingslab/Desktop/NodeApps/spokenNumberify/src/createTens.js",
+		"/Users/listingslab/Desktop/NodeApps/spokenNumberify/src/printError.js",
+		"/Users/listingslab/Desktop/NodeApps/spokenNumberify/src/createOnes.js",
+		"/Users/listingslab/Desktop/NodeApps/spokenNumberify/src/createWords_bak.js",
+		"/Users/listingslab/Desktop/NodeApps/spokenNumberify/src/makeTens.js",
+		"/Users/listingslab/Desktop/NodeApps/spokenNumberify/src/createWordNumber.js",
+		"/Users/listingslab/Desktop/NodeApps/spokenNumberify/src/printEquivalent.js",
+		"/Users/listingslab/Desktop/NodeApps/spokenNumberify/dev/ready.js",
+		"/Users/listingslab/Desktop/initializr/index.html",
+		"/Users/listingslab/Desktop/NodeApps/spokenNumberify/public/js/spokenNumberify.min.js",
+		"/Users/listingslab/Desktop/NodeApps/spokenNumberify/src/onReady.js",
+		"/Users/listingslab/Desktop/NodeApps/spokenNumberify/dev/docReady.js",
+		"/Users/listingslab/Desktop/NodeApps/spokenNumberify/public/js/app.min.js",
+		"/Users/listingslab/Desktop/NodeApps/spokenNumberify/src/docReady.js",
+		"/Users/listingslab/Desktop/NodeApps/spokenNumberify/src/ready.js",
+		"/Users/listingslab/Desktop/NodeApps/spokenNumberify/public/js/main.js",
+		"/Users/listingslab/Desktop/spokenNumberify/Gruntfile.js",
+		"/Users/listingslab/Desktop/NodeApps/spokenNumberify/package.json",
+		"/Users/listingslab/Desktop/NodeApps/spokenNumberify/spokenNumberify.sublime-project",
+		"/Users/listingslab/Desktop/NodeApps/spokenNumberify/spokenNumberify.sublime-workspace",
+		"/Users/listingslab/Desktop/NodeApps/spokenNumberify/.gitignore",
+		"/Users/listingslab/Desktop/Node.js/testtest/Gruntfile.js",
+		"/Users/listingslab/Desktop/Node.js/testtest/fsdfaff.txt",
+		"/Users/listingslab/Desktop/Node.js/testtest/app/index.html",
+		"/Users/listingslab/Desktop/spokenNumberify/package.json",
+		"/Users/listingslab/Desktop/spokenNumberify/js/spokenNumberify.js",
+		"/Users/listingslab/Desktop/spokenNumberify/spokenNumberify.js"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"you",
+			"3000",
+			"equ",
+			"Downlo",
+			"ones",
+			"		\n",
+			"dsad",
+			"\"></",
+			"watch"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/listingslab/Desktop/NodeApps/spokenNumberify/spokenNumberify.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 169.0,
+	"status_bar_visible": true
+}
