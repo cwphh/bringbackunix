@@ -1,0 +1,22 @@
+{
+  "name": "bringbackunix",
+  "version": "1.0.0",
+  "description": "Tutorial setting up a working, publically accessible AngularJS App on a Digital Ocean Droplet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/listingslab/bringbackunix.git"
+  },
+  "keywords": [
+    "MEAN"
+  ],
+  "author": "listingslab",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/listingslab/bringbackunix/issues"
+  },
+  "homepage": "https://github.com/listingslab/bringbackunix#readme"
+}
